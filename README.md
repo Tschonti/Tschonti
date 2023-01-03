@@ -1,10 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 
 My name is <a href="https://www.linkedin.com/in/samuel-fekete/" target="_blank" title="My LinkedIn profile"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"> Sámuel Fekete</a>, a Computer Science student at Budapest University of Technology and Economics and a hobby web developer. Here you can explore the projects I worked on during my studies or in my free time.
 
-# Solo projects
+## Solo projects
 
-## <a href="https://github.com/Tschonti/orienteering.rate" target="_blank" title="Orienteering.rate repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Orienteering.rate</a>
+### <a href="https://github.com/Tschonti/orienteering.rate" target="_blank" title="Orienteering.rate repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Orienteering.rate</a>
 Web application for rating orienteering events I created as my first web application. <a href="https://rate-o.azurewebsites.net/" target="_blank">Visit the website</a> (Some parts of the app have stopped working since moving to Azure. I no longer develop this project.)
 
 Built with:
@@ -16,7 +16,7 @@ Built with:
 <a href="https://jquery.com/" target="_blank" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a>
 <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 
-## Online songbook
+### Online songbook
 React application to view, create, edit or project song lyrics for the local baptist church. You can also make playlists. <a href="https://dicsi.okgy.hu/" target="_blank">Visit the website</a>
 
 <a href="https://github.com/Tschonti/dicsi-api" target="_blank" title="Dicsi backend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Backend repository</a>   <a href="https://github.com/Tschonti/dicsi-frontend" target="_blank" title="Dicsi frontend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Frontend repository</a>
@@ -31,11 +31,11 @@ Built with:
 <a href="https://material-ui.com/" target="_blank" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
 
 
-# Kir-Dev projects
+## Kir-Dev projects
 
 <a href="https://kir-dev.hu/" target="_blank">Kir-Dev</a> is group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences of cooperating with other people about a coding project. I also take part in mentoring the new members and I am the leader of one of our projects.
 
-## <a href="https://github.com/kir-dev/tanulo-next" target="_blank" title="TanulóSCH repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> TanulóSCH</a>
+### <a href="https://github.com/kir-dev/tanulo-next" target="_blank" title="TanulóSCH repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> TanulóSCH</a>
 The main goal of this application is to provide an easy way for the residents of the dorm to find the nearest empty study room and reserve it. My contribution to the porject is relatively small, but I created the email notification system and several other small features, like grouping tickets and groups based on various aspects. <a href="https://tanulo.sch.bme.hu/" target="_blank">Visit the website</a>
 
 Built with:
@@ -46,7 +46,7 @@ Built with:
 <a href="https://www.cypress.io/" target="_blank" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" target="_blank" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
-## <a href="https://github.com/kir-dev/cmsch" target="_blank" title="CMSch repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> CMSch</a>
+### <a href="https://github.com/kir-dev/cmsch" target="_blank" title="CMSch repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> CMSch</a>
 Full stack cms website solution for complex community sites optimized for community events in our dorm. I work on the frontend of the application.
 
 Built with:
@@ -54,7 +54,7 @@ Built with:
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://chakra-ui.com/" target="_blank" title="Chakra UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg" alt="Chakra UI" width="21px" height="21px"></a>
 
-## Konzisite
+### Konzisite
 An app for students to organize and sign up for consultations. I am the leader of this project inside our organization. Still a work in progress.
 
 <a href="https://github.com/kir-dev/konzisite-api" target="_blank" title="Konzisite backend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Backend repository</a>   <a href="https://github.com/kir-dev/konzisite-frontend" target="_blank" title="Konzisite frontend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Frontend repository</a>
@@ -68,17 +68,17 @@ Built with:
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://chakra-ui.com/" target="_blank" title="Chakra UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg" alt="Chakra UI" width="21px" height="21px"></a>
 
-# University projects
-## <a href="https://github.com/Tschonti/utvonalvalaszto" target="_blank" title="Útvonalválaszt-O repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Útvonalválaszt-O</a>
+## University projects
+### <a href="https://github.com/Tschonti/utvonalvalaszto" target="_blank" title="Útvonalválaszt-O repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Útvonalválaszt-O</a>
 A simple game played in a terminal window written in <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>. Implements the Dijkstra algorithm.
 
-## <a href="https://github.com/Tschonti/java-siam" target="_blank" title="JAVA Siam repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> JAVA Siam</a>
+### <a href="https://github.com/Tschonti/java-siam" target="_blank" title="JAVA Siam repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> JAVA Siam</a>
 Implementation of the board game named Siam in pure <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>.
 
-## <a href="https://github.com/Tschonti/kotlin-tetris" target="_blank" title="Kotlin Tetris repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Kotlin Tetris</a>
+### <a href="https://github.com/Tschonti/kotlin-tetris" target="_blank" title="Kotlin Tetris repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Kotlin Tetris</a>
 Implementation of the classic Tetris game in pure <a href="https://kotlinlang.org/" target="_blank" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="21px" height="21px"></a>.
 
-## <a href="https://github.com/Tschonti/a-szallitok" target="_blank" title="A Szállítók repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Delivery App</a>
+### <a href="https://github.com/Tschonti/a-szallitok" target="_blank" title="A Szállítók repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Delivery App</a>
 Fullstack application with two Android and one web frontend created as a group assingment. I worked on the backend and the web frontend page.
 
 Built with:
@@ -90,5 +90,5 @@ Built with:
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://chakra-ui.com/" target="_blank" title="Chakra UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg" alt="Chakra UI" width="21px" height="21px"></a>
 
-## <a href="https://github.com/Tschonti/My-Bookshelves" target="_blank" title="My bookshelves repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> My Bookshelves</a>
+### <a href="https://github.com/Tschonti/My-Bookshelves" target="_blank" title="My bookshelves repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> My Bookshelves</a>
 Simple <a href="https://www.android.com/" target="_blank" title="Android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="Android" width="21px" height="21px"></a> app to store books on virtual bookshelves.
