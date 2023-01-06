@@ -17,7 +17,7 @@ Built with:
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 
 ### Online songbook
-React application to view, create, edit or project song lyrics for the local baptist church. You can also make playlists. <a href="https://dicsi.okgy.hu/">Visit the website</a>
+React application to view, create, edit or project song lyrics for the local Baptist church. You can also make playlists. <a href="https://dicsi.okgy.hu/">Visit the website</a>
 
 <a href="https://github.com/Tschonti/dicsi-api" title="Dicsi backend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Backend repository</a>   <a href="https://github.com/Tschonti/dicsi-frontend" title="Dicsi frontend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Frontend repository</a>
 
@@ -36,7 +36,7 @@ Built with:
 <a href="https://kir-dev.hu/">Kir-Dev</a> is group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences of cooperating with other people about a coding project. I also take part in mentoring the new members and I am the leader of one of our projects.
 
 ### <a href="https://github.com/kir-dev/tanulo-next" title="TanulóSCH repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> TanulóSCH</a>
-The main goal of this application is to provide an easy way for the residents of the dorm to find the nearest empty study room and reserve it. My contribution to the porject is relatively small, but I created the email notification system and several other small features, like grouping tickets and groups based on various aspects. <a href="https://tanulo.sch.bme.hu/">Visit the website</a>
+The main goal of this application is to provide an easy way for the residents of the dorm to find the nearest empty study room and reserve it. My contribution to the project is relatively small, but I created the email notification system and several other small features, like grouping tickets and groups based on various aspects. <a href="https://tanulo.sch.bme.hu/">Visit the website</a>
 
 Built with:
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
@@ -47,7 +47,7 @@ Built with:
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
 ### <a href="https://github.com/kir-dev/cmsch" title="CMSch repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> CMSch</a>
-Full stack cms website solution for complex community sites optimized for community events in our dorm. I work on the frontend of the application.
+Full stack CMS website solution for complex community sites optimized for community events in our dorm. I work on the frontend of the application.
 
 Built with:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
@@ -79,7 +79,7 @@ Implementation of the board game named Siam in pure <a href="https://www.java.co
 Implementation of the classic Tetris game in pure <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="21px" height="21px"></a>.
 
 - <a href="https://github.com/Tschonti/a-szallitok" title="A Szállítók repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Delivery App</a>
-Fullstack application with two Android and one web frontend created as a group assingment. I worked on the backend and the web frontend page.
+Fullstack application with two Android and one web frontend created as a group assignment. I worked on the backend and the web frontend page.
 Built with:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
