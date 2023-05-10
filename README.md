@@ -17,7 +17,7 @@ I am currently rewriting this app from scratch using serverless technologies on 
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>.
 
 ### Online songbook
-React application to view, create, edit or project song lyrics for the local baptist church. You can also make playlists. <a href="https://dicsi.okgy.hu/">Visit the website</a>
+React application to view, create, edit or project song lyrics for the local Baptist church. You can also make playlists. <a href="https://dicsi.okgy.hu/">Visit the website</a>
 
 <a href="https://github.com/Tschonti/dicsi-api" title="Dicsi backend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Backend repository</a>   <a href="https://github.com/Tschonti/dicsi-frontend" title="Dicsi frontend repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Frontend repository</a>
 
