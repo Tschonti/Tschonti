@@ -4,7 +4,7 @@ My name is <a href="https://www.linkedin.com/in/samuel-fekete/" title="My Linked
 
 ## Kir-Dev
 
-<a href="https://kir-dev.hu/">Kir-Dev</a> is group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences of cooperating with other people about a coding project. Besides contributing to various projects, I mentor and give lectures to the new members in Node.js and TypeScript. I am also the project leader and biggest contributor of two of our main projects:
+<a href="https://kir-dev.hu/">Kir-Dev</a> is a group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences cooperating with other people on a coding project. Besides contributing to various projects, I mentor and give lectures to the new members in Node.js and TypeScript. I am also the project leader and biggest contributor to two of our main projects:
 
 - <a href="https://konzi.kir-dev.hu/">Konzisite</a> is an app for students to organize and sign up for consultations.
 Built with:
@@ -26,7 +26,7 @@ Built with:
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
 <a href="https://github.com/simonyiszk/konf-web-2024" title="Simonyi Conference website    repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Repository</a>
 
-I was also the group leader for 10 months, which was an outstanding opportunity to develop some managerial and leadership skils in a stress-free environment.
+I was also the group leader for 10 months, which was an outstanding opportunity to develop some managerial and leadership skills in a stress-free environment.
 
 ## Solo projects
 
