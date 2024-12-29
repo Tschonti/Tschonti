@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is <a href="https://www.linkedin.com/in/samuel-fekete/" title="My LinkedIn profile"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"> Sámuel Fekete</a>, I'm a Computer Science student at Budapest University of Technology and Economics and a full-stack web developer. Here you can explore the projects I worked on during my studies or in my free time.
+My name is <a href="https://www.linkedin.com/in/samuel-fekete/" title="My LinkedIn profile"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="21px" height="21px"> Sámuel Fekete</a>, I'm a Computer Science exchange student at Technical University of Munich and a full-stack web developer. Here you can explore the projects I worked on during my studies or in my free time.
 
 ## Kir-Dev
 
