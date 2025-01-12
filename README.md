@@ -4,7 +4,7 @@ My name is <a href="https://www.linkedin.com/in/samuel-fekete/" title="My Linked
 
 ## Kir-Dev
 
-<a href="https://kir-dev.hu/">Kir-Dev</a> is a group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences cooperating with other people on a coding project. Besides contributing to various projects, I mentor and give lectures to the new members in Node.js and TypeScript. I am also the project leader and biggest contributor to two of our main projects:
+<a href="https://kir-dev.hu/">Kir-Dev</a> is a group at my university where students volunteer to develop and maintain web applications for the student hostel (dorm). I have learnt many new technologies here and it’s one of my first experiences cooperating with other people on a coding project. Besides contributing to various projects, I also mentored and gave lectures to the new members in Node.js and TypeScript. I was also the project leader and biggest contributor to two of our larger projects:
 
 - <a href="https://konzi.kir-dev.hu/">Konzisite</a> is an app for students to organize and sign up for consultations.
 Built with:
@@ -28,22 +28,28 @@ Built with:
 
 I was also the group leader for 10 months, which was an outstanding opportunity to develop some managerial and leadership skills in a stress-free environment.
 
-## Solo projects
+## Projects
 
 ### Pontoz-O
 
-Web application for rating orienteering events. This was the topic of my very first hobby web application, originally built with:
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://flask.pocoo.org/" title="Flask"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="21px" height="21px"></a>
-<a href="https://handlebarsjs.com/" title="Handlebars"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="21px" height="21px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>.
-I am currently rewriting this app from scratch using serverless technologies on Microsoft Azure <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
+Cloud application for rating orienteering events that I am devloping for the Hungarian Orienteering Federation. It is built with serverless technologies on Microsoft Azure <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a> and
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a><a href="https://www.terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="21px" height="21px"></a> and React
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> as my thesis. <a href="https://pontozo.mtfsz.hu/">Visit the website</a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a><a href="https://www.terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="21px" height="21px"></a><a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>. This project was the main topic of my BSc thesis analyzing serverless technologies. <a href="https://pontozo.mtfsz.hu/">Visit the website</a>
+
 
 <a href="https://github.com/Tschonti/pontozo" title="Pontoz-o repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Monorepo</a>
+
+### New HungerMap for the UN World Food Programme
+
+In the context of a practical course at TUM, I was part of a team of 16 students that developed the new version of the UN WFP's HungerMap with better performance, UX and more features. As the Meta team leader, in addition to full-stack and DevOps tasks, I was also responsible for code-reviews and technical decisions. The new application is built with
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
+<a href="https://leafletjs.com/" title="Leafjet"><img src="https://github.com/get-icon/geticon/raw/master/icons/leafjet.svg" alt="Leafjet" width="21px" height="21px"></a>. <a href="https://wfp-hungermap.netlify.app/">Visit the website</a>
+
+<a href="https://github.com/jst-seminar-rostlab-tum/wfp-hunger-map" title="WFP HungerMap repository"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="21px" height="21px"> Frontend repository</a>
+
 
 ### Online songbook
 
@@ -71,9 +77,8 @@ Other technologies I used at university or in my free time:
 <a href="https://www.android.com/" title="Android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="Android" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" alt="Rails" width="21px" height="21px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
+<a href="https://oauth.net/" title="OAuth"><img src="https://github.com/get-icon/geticon/raw/master/icons/oauth.svg" alt="OAuth" width="21px" height="21px"></a>
 
 Technologies I worked with professionally:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
